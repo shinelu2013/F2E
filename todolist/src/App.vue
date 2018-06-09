@@ -6,7 +6,7 @@
             <a class="nav-link active" data-toggle="tab" href="#tab1" @click="changeFilter()">My Tasks</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#tab2" @click="changeFilter('inprogress')">inprogress</a>
+            <a class="nav-link" data-toggle="tab" href="#tab2" @click="changeFilter('inprogress')">In Progress</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#tab3" @click="changeFilter('completed')">Completed</a>
