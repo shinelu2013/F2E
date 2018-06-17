@@ -3,7 +3,8 @@
 ### 第1週 Todolist
 [Demo](https://shinelu2013.github.io/F2E/todolist/index.html)
 
-### 第2週
+### 第2週 Filter
+[Demo](https://shinelu2013.github.io/F2E/filter/dist/index.html)
 
 ### 第3週 
 
