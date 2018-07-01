@@ -6,9 +6,11 @@
 ### 第2週 Filter
 [Demo](https://shinelu2013.github.io/F2E/filter/dist/index.html)
 
-### 第3週 
+### 第3週 Admin Order
+[Demo](https://shinelu2013.github.io/F2E/admin-order/dist/index.html)
 
-### 第4週  
+### 第4週 Product Category
+[Demo](https://shinelu2013.github.io/F2E/product-category/dist/index.html)
 
 ### 第5週 
 
