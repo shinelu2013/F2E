@@ -9,8 +9,8 @@
 ### 第3週 Admin Order
 [Demo](https://shinelu2013.github.io/F2E/admin-order/dist/index.html)
 
-### 第4週 Product Category
-[Demo](https://shinelu2013.github.io/F2E/product-category/dist/index.html)
+### 第4週 Product Gallery
+[Demo](https://shinelu2013.github.io/F2E/product-gallery/dist/index.html)
 
 ### 第5週 
 

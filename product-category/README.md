@@ -6,7 +6,7 @@
 
 ## install
 ```
-cd product-category
+cd product-gallery
 npm install
 ```
 ## develop
