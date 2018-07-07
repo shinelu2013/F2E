@@ -12,7 +12,8 @@
 ### 第4週 Product Gallery
 [Demo](https://shinelu2013.github.io/F2E/product-gallery/dist/index.html)
 
-### 第5週 
+### 第5週 Comic Viewer
+[Demo](https://shinelu2013.github.io/F2E/comic-viewer/dist/index.html)
 
 ### 第6週 
 
