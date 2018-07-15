@@ -1,6 +1,5 @@
 <template lang="pug">
 div.progressBar
-    div {{ currentStage }}
     div.stage(:class="getStageClass(stages[0])")
     div.line(:class="{'linepass': currentStage>1}")
     div.stage(:class="getStageClass(stages[1])")
