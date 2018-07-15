@@ -15,7 +15,8 @@
 ### 第5週 Comic Viewer
 [Demo](https://shinelu2013.github.io/F2E/comic-viewer/dist/index.html)
 
-### 第6週 
+### 第6週 Validation
+[Demo](https://shinelu2013.github.io/F2E/validation/dist/index.html)
 
 ### 第7週 
 
