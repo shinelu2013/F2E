@@ -6,13 +6,13 @@ https://hackmd.io/N5yEjm2vSx6D41qAbJGDmw
 
 ## install
 ```
-cd canvas-game
+cd radio-defense
 npm install
 ```
 
 ## develop
 ```
-npm run serve
+npm run dev
 ```
 
 ## deploy
