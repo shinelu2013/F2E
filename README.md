@@ -19,8 +19,9 @@
 [Demo](https://shinelu2013.github.io/F2E/validation/dist/index.html)
 
 ### 第7週 Radio Defense
-[Demo](https://shinelu2013.github.io/F2E/radio-defense/dist/index.html)
+[Demo](https://shinelu2013.github.io/F2E/radio-defense/index.html)
 
-### 第8週
+### 第8週 Parallax Scrolling
+[Demo](https://shinelu2013.github.io/F2E/parallax-scrolling/dist/index.html)
 
 ### 第9週
