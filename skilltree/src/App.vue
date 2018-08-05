@@ -50,7 +50,6 @@ html,body{
   margin: 0;
   width: 100%;
   height: 100%;
-  overflow: hidden;
   background-color: #6a357b;
 }
 
@@ -89,8 +88,7 @@ html,body{
   }
   .skillItem{
     width: 128px;
-    height: 128px;    
-    font-size: 20px;
+    height: 128px;
     color: white;
     text-align: center;
     cursor: pointer;
@@ -99,7 +97,7 @@ html,body{
     margin-right: 10px;
 
     .skillpoint{
-
+      font-size: 20px;
     }
   }
     
@@ -108,7 +106,7 @@ html,body{
   }
 
   .inactive{
-    opacity: 0.5;
+    opacity: 0.4;
   }
   .active{
     opacity: 1;
