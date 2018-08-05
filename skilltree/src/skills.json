@@ -1,0 +1,101 @@
+[
+  {
+    "name":"basic",
+    "icon":"./assets/img-planet-basics@2x.png",
+    "skills":[
+      {
+        "title":"基本技能",
+        "material_icons":"category",
+        "learned": false
+      },
+      {
+        "title":"開發工具",
+        "material_icons":"build",
+        "learned": false
+      }
+    ]
+  },
+  {
+    "name":"css",
+    "icon":"./assets/img-planet-css@2x.png",
+    "skills":[
+      {
+        "title":"CSS框架",
+        "material_icons":"flip_to_front",
+        "learned": false
+      },
+      {
+        "title":"CSS預處理器",
+        "material_icons":"view_quilt",
+        "learned": false
+      },
+      {
+        "title":"CSS Layout",
+        "material_icons":"developer_board",
+        "learned": false
+      },
+      {
+        "title":"響應式網頁",
+        "material_icons":"devices",
+        "learned": false
+      },
+      {
+        "title":"CSS動畫",
+        "material_icons":"3d_rotation",
+        "learned": false
+      }
+    ]
+  },
+  {
+    "name":"js",
+    "icon":"./assets/img-planet-js@2x.png",
+    "skills":[
+      {
+        "title":"ES6",
+        "material_icons":"fiber_new",
+        "learned": false
+      },
+      {
+        "title":"JS框架",
+        "material_icons":"developer_mode",
+        "learned": false
+      },
+      {
+        "title":"JS預處理器",
+        "material_icons":"nfc",
+        "learned": false
+      },
+      {
+        "title":"JS動畫",
+        "material_icons":"gradient",
+        "learned": false
+      }      
+    ]
+  },
+  {
+    "name":"managers",
+    "icon":"./assets/img-planet-managers@2x.png",
+    "skills":[
+      {
+        "title":"套件管理",
+        "material_icons":"device_hub",
+        "learned": false
+      },
+      {
+        "title":"打包工具",
+        "material_icons":"table_chart",
+        "learned": false
+      },
+      {
+        "title":"流程自動化",
+        "material_icons":"sync",
+        "learned": false
+      },
+      {
+        "title":"版本控管工具",
+        "material_icons":"file_copy",
+        "learned": false
+      }
+    ]
+  }
+]
